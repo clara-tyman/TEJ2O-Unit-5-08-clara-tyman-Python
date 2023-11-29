@@ -6,16 +6,13 @@ This module is a Micro:bit MicroPython program
 
 from microbit import *
 
-
-display.scroll("Hello, World!")
-
 distance_to_object = number = 0
 
 # setup
 display.show(Image.HAPPY)
 
 while True:
-    if button_a.is_pressed() === true:
+    if (button_a.is_pressed() === true):
         display.clear
         while True:
             # Distance from sonar
