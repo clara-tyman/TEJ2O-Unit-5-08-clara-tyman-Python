@@ -5,4 +5,4 @@
  * This program ...
 */
 
-strictNullChecks = false 
+strictNullChecks = true 
