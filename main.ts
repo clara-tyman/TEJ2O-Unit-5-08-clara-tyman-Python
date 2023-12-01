@@ -4,3 +4,5 @@
  * Created on: Sep 2020
  * This program ...
 */
+
+strictNullChecks = false 
