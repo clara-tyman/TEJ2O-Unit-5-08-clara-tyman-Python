@@ -4,6 +4,7 @@
         "noImplicitAny": true,
         "outDir": "built",
         "rootDir": "."
+        "strictNullChecks": true
     },
     "exclude": ["pxt_modules/**/*test.ts"]
 }
