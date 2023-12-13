@@ -5,4 +5,3 @@
  * This program ...
 */
 
-strictNullChecks = true 
